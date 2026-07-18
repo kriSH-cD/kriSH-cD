@@ -58,7 +58,6 @@ Location  :: India
 > Exploring LLMs
 > Automation with n8n
 > Backend Architecture
-> Hackathons
 ```
 
 ---
@@ -105,21 +104,7 @@ Location  :: India
 
 🤖 AI Developer
 
-🚀 Hackathon Enthusiast
-
 💻 Full Stack Builder
-
----
-
-# 📊 `$ github-stats`
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kriSH-cD&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriSH-cD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -182,7 +167,6 @@ Coming Soon...
 
 • AI Projects
 • Full Stack Applications
-• Hackathon Projects
 • Open Source Contributions
 ```
 
@@ -232,10 +216,6 @@ Solve real problems."
 krish@github:~$ coffee
 
 > Required
-
-krish@github:~$ hackathons
-
-> Love participating
 
 krish@github:~$ learning
 
