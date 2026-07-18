@@ -1,99 +1,304 @@
+<!-- ========================================= -->
+<!--          MATRIX TERMINAL GITHUB README     -->
+<!-- ========================================= -->
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=34&center=true&vCenter=true&width=600&height=70&color=00F7FF&duration=4000&lines=Hello+World!;Krish+Kumar+Here;AI+Developer+%7C+Full+Stack+Builder;Hackathon+Enthusiast;Building+the+Future+with+AI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%24+boot+krish.profile;Hello+World!;I'm+Krish+Kumar;AI+%26+Full+Stack+Developer;Hackathon+Enthusiast;Building+Intelligent+Applications;Always+Learning..." />
 </h1>
 
-<h3 align="center">🚀 AI Developer | Full Stack Engineer | Hackathon Builder</h3>
+<p align="center">
+  <img src="https://readme-visitor-badge.laobi.icu/badge?page_id=kriSH-cD.kriSH-cD&left_color=black&right_color=00ff41"/>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+```text
+████████████████████████████████████████████████████████████
+
+> booting profile...
+
+✓ Loading Developer Profile...
+✓ Initializing AI Modules...
+✓ Loading Skills...
+✓ Connecting GitHub...
+✓ Ready.
+
+████████████████████████████████████████████████████████████
+```
+
+# 👨‍💻 `$ whoami`
+
+```bash
+Name      :: Krish Kumar
+Role      :: AI & Full Stack Developer
+Education :: B.Tech CSE (AI & ML)
+College   :: Newton School of Technology
+Status    :: Building AI Powered Applications
+Location  :: India
+```
+
+---
+
+# 📖 `$ cat about.md`
 
 - 🎓 Tech enthusiast passionate about **Artificial Intelligence & Automation**
 - 🏆 **Top 20 Finalist — TrustAI Ideathon 2026 (IIIT Pune)**
-- 🤖 Currently exploring **AI Agents, n8n Automation, and LLM applications**
-- 💡 Love building **real-world products using AI + Web**
-- 🌍 Open to collaborations on **AI / Startup Projects**
+- 🤖 Currently exploring **AI Agents, MCP, n8n Automation & LLM Applications**
+- 💡 Love building **real-world AI + Web applications**
+- 🌱 Continuously learning modern technologies
+- 🤝 Open to collaborations on **AI, Open Source & Startup Projects**
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 `$ current-focus`
+
+```text
+> Learning AI Agents
+> Building Full Stack Applications
+> Exploring LLMs
+> Automation with n8n
+> Backend Architecture
+> Hackathons
+```
+
+---
+
+# ⚙️ `$ tech-stack`
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+## ⚡ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+---
+
+# 🏆 `$ achievements`
+
+🥇 **Top 20 Finalist — TrustAI Ideathon 2026**
+
+📍 IIIT Pune
+
+🤖 AI Developer
+
+🚀 Hackathon Enthusiast
+
+💻 Full Stack Builder
+
+---
+
+# 📊 `$ github-stats`
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kriSH-cD&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriSH-cD&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 `$ streak`
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kriSH-cD&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 `$ activity-graph`
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kriSH-cD&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 `$ contribution-snake`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kriSH-cD/kriSH-cD/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** This snake animation will work after you set up the GitHub Action that generates it.
+
+---
+
+# 🌐 `$ social`
 
 <p align="center">
 
 <a href="https://github.com/kriSH-cD">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/krish-kumar-thakur-9a13a8389/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:krishkumar5478@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+# 🚀 `$ featured-projects`
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+```text
+Coming Soon...
 
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-
-### 🧠 AI / Data
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge)
-
-
-### ⚡ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
+• AI Projects
+• Full Stack Applications
+• Hackathon Projects
+• Open Source Contributions
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 `$ roadmap`
 
-### 🌦 Weather App
-Full stack weather application that shows **real-time weather data using API integration**
+```text
+[✓] JavaScript
 
-🔗 https://github.com/kriSH-cD/weather-app
+[✓] React
 
----
+[✓] Next.js
 
-### 🤖 AI Automation Workflows
-Building automation pipelines using **n8n + AI APIs**
+[✓] Node.js
 
----
+[✓] Express
 
-### 🧠 TrustAI Hackathon Project
-AI solution focused on **safe and trusted AI systems**
+[✓] MongoDB
 
-🏆 Top 20 Finalist — IIIT Pune
+[✓] Docker
 
----
+[ ] AI Agents
 
-# 🏆 Hackathon Achievements
+[ ] LangChain
 
-🥇 **TrustAI Ideathon 2026 — Top 20 Finalist**  
-Hosted by **IIIT Pune**
+[ ] Kubernetes
 
-Focused on building **Safe & Trusted AI Systems**
+[ ] Cloud Deployment
+```
 
 ---
 
-# 🌐 Portfolio
+# 💬 `$ quote`
 
-Check out my projects and work:
-
-🔗 **GitHub:**  
-https://github.com/kriSH-cD
+```text
+"Stay curious.
+Keep building.
+Solve real problems."
+```
 
 ---
 
-⭐ From [Krish Kumar](https://github.com/kriSH-cD)
+# ⚡ `$ fun-facts`
+
+```bash
+krish@github:~$ coffee
+
+> Required
+
+krish@github:~$ hackathons
+
+> Love participating
+
+krish@github:~$ learning
+
+> Never Stops
+
+krish@github:~$ motto
+
+> Code • Learn • Build • Repeat
+```
+
+---
+
+# 🖥 `$ system-info`
+
+```yaml
+Name: Krish Kumar
+
+OS: Linux
+
+Editor: VS Code
+
+Languages:
+  - Python
+  - JavaScript
+
+Frontend:
+  - HTML
+  - CSS
+  - Tailwind
+  - React
+  - Next.js
+
+Backend:
+  - Node.js
+  - Express
+
+Database:
+  - MongoDB
+
+Tools:
+  - Git
+  - GitHub
+  - Docker
+  - VS Code
+  - Postman
+```
+
+---
+
+<div align="center">
+
+```text
+███████████████████████████████████████
+
+Thanks for visiting my profile!
+
+Let's build something amazing together.
+
+███████████████████████████████████████
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+
+⭐ From **Krish Kumar**
+
+</div>
