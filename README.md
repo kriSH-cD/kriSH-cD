@@ -253,7 +253,7 @@ krish@github:~$ motto
 ```yaml
 Name: Krish Kumar
 
-OS: Linux
+OS: MacOs
 
 Editor: VS Code
 
@@ -299,6 +299,6 @@ Let's build something amazing together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
 
-⭐ From **Krish Kumar**
+⭐ From **Krish Thakur**
 
 </div>
