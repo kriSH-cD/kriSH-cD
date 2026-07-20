@@ -10,6 +10,8 @@
   <img src="https://readme-visitor-badge.laobi.icu/badge?page_id=kriSH-cD.kriSH-cD&left_color=black&right_color=00ff41"/>
 </p>
 
+
+
 ---
 
 ```text
@@ -128,12 +130,13 @@ Location  :: India
 
 ---
 
-# 🐍 `$ contribution-snake`
+# 🐍 🐍 `$ contribution-snake`
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/kriSH-cD/kriSH-cD/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 > **Note:** This snake animation will work after you set up the GitHub Action that generates it.
